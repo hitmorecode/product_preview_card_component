@@ -48,9 +48,9 @@ Users should be able to:
 ### What I learned
 
 For this one I follow the suggestion of someone in the community and did a mobile first approach.
-It was fun doing it like this, normally I start with desktop first as I feel more confortable doing this way. 
-So this was different from my normally approach (getting out of my confort zone). I will force myself to continue to do this way from now on.
-Trying to kill old habbits :-)
+It was fun doing it like this, normally I start with desktop first as I feel more comfortable doing this way. 
+So this was different from my normally approach (getting out of my comfort zone). I will force myself to continue to do this way from now on.
+Trying to kill bad habits :-)
 
 
 ### Useful resources
